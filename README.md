@@ -21,8 +21,8 @@ To run the iNav Labs landing page locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/inav-labs-madi-landing-page.git
-   cd inav-labs-madi-landing-page
+   git clone https://github.com/your-username/iNav-Labs.git
+   cd iNav-Labs
 
 2. **Install dependencies:**
 
@@ -32,7 +32,7 @@ npm install
 
 npm run dev
 
-The landing page will be accessible at http://localhost:3000.
+The landing page will be accessible at [http://localhost:5173](http://localhost:5173/)
 
 3. **Build for production:**
 
