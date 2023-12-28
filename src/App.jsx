@@ -6,12 +6,15 @@ function App() {
   
 
   return (
-    <>
+    <div className="bg-black">
     <Nav />
-    <Header />
+    <div className="">
+
+    {/* <Header /> */}
     <About />
+    </div>
       
-    </>
+    </div>
   )
 }
 

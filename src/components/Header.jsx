@@ -1,13 +1,19 @@
-import React from 'react'
+import React from 'react';
+import background from '../assets/background1.jpg';
 
 const Header = () => {
-  return (
-    <div className='bg-black'>
-       <div className='flex justify-center'>
-    <h1 className=" text-center p-6 text-5xl text-primary font-bold">iNav Labs</h1>
-</div>
-    </div>
-  )
-}
+  const headerStyle = {
+    background: `url(${background}) center/cover`,
+    minHeight: '300px', // Adjust the height as needed
+  };
 
-export default Header
+  return (
+    <div className="bg-black" style={headerStyle}>
+      <div className="flex justify-center">
+        <h1 className="text-center p-6 text-5xl text-primary font-semibold">iNav Labs</h1>
+      </div>
+    </div>
+  );
+};
+
+export default Header;
