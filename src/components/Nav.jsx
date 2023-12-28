@@ -19,7 +19,7 @@ const Nav = () => {
         </div>
 
         {/* Navigation links (hidden in mobile view) */}
-        <div className="hidden lg:flex space-x-8 mr-5 text-xl">
+        <div className="hidden lg:flex space-x-8 mr-8 text-lg">
           <a href="#about" className="text-primary hover:text-gray-300">
             About
           </a>
