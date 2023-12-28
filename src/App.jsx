@@ -1,10 +1,9 @@
 import About from "./components/About"
 import Cards from "./components/Cards"
 
-import Header from "./components/Header"
 import Nav from "./components/Nav"
 import Subscribe from "./components/Subscribe"
-import Newlaunch from "./components/newlaunch"
+import Newlaunch from "./components/Newlaunch"
 import Footer from "./components/Footer"
 import Contactdetails from "./components/Contactdetails"
 
