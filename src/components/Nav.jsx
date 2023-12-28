@@ -14,7 +14,7 @@ const Nav = () => {
     <nav className="bg-black p-4">
       <div className="container mx-auto flex items-center justify-between text-primary ">
         {/* Logo */}
-        <div className="flex items-center ml-5">
+        <div className="flex items-center ml-4">
          <img src={logo} alt="logo" className='w-40 h-20' />
         </div>
 
