@@ -21,7 +21,7 @@ To run the iNav Labs landing page locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/iNav-Labs.git
+   git clone https://github.com/dharmi04/iNav-Labs.git
    cd iNav-Labs
 
 2. **Install dependencies:**
