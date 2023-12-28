@@ -25,18 +25,18 @@ To run the iNav Labs landing page locally, follow these steps:
    cd iNav-Labs
 
 2. **Install dependencies:**
-
-npm install
+    ```bash
+   npm install
 
 3. **Run the development server:**
-
-npm run dev
+    ```bash
+   npm run dev
 
 The landing page will be accessible at [http://localhost:5173](http://localhost:5173/)
 
 3. **Build for production:**
-
-npm run build
+    ```bash
+   npm run build
 
 The optimized production build will be available in the dist folder.
 
