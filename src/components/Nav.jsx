@@ -23,7 +23,7 @@ const Nav = () => {
           <a href="#about" className="text-primary hover:text-gray-300">
             About
           </a>
-          <a href="#client" className="text-primary hover:text-gray-300">
+          <a href="#cards" className="text-primary hover:text-gray-300">
             Client
           </a>
           <a href="#subscribe" className="text-primary hover:text-gray-300">
@@ -54,7 +54,7 @@ const Nav = () => {
             <a href="#about" className="text-primary hover:text-gray-300">
               About
             </a>
-            <a href="#client" className="text-primary hover:text-gray-300">
+            <a href="#cards" className="text-primary hover:text-gray-300">
               Client
             </a>
             <a href="#subscribe" className="text-primary hover:text-gray-300">

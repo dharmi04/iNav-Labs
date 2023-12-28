@@ -3,7 +3,7 @@ import robot from '../assets/robot-1.png';
 
 const About = () => {
   return (
-    <div className="bg-black mb-11">
+    <div className="bg-black mb-4" id="about">
       <div className="container mx-auto flex md:flex-row flex-col items-center justify-center">
         <div className="md:w-1/2 text-center md:text-left md:mt-0 mt-10">
           <h1 className="p-6 md:text-5xl text-3xl text-primary font-semibold uppercase font-Saira shadow-md">

@@ -5,7 +5,7 @@ import services from '../assets/robot-1.png'
 
 const Card = ({ image, title, description }) => {
   return (
-    <div className="max-w-sm rounded-lg overflow-hidden shadow-sm shadow-primary m-4 border-2 border-primary transform transition-transform hover:scale-105  ">
+    <div className="max-w-sm rounded-lg overflow-hidden shadow-sm shadow-primary m-4 border-2 border-primary transform transition-transform hover:scale-105  " id="cards">
       <img className="w-full h-80 object-cover" src={image} alt={title} />
       <div className="px-6 py-4">
         <div className="font-semibold font-Saira text-xl mb-2 text-primary">{title}</div>

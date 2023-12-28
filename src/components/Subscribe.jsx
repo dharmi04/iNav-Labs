@@ -14,7 +14,7 @@ const Subscribe = () => {
   };
 
   return (
-    <div className='bg-black text-white p-8 text-center'>
+    <div className='bg-black text-white p-8 text-center' id="subscribe">
       <h1 className='text-primary font-serif text-4xl mb-4'>Subscribe</h1>
       <p className='text-white font-sans mb-2'>Sign up to be the first to know about our soft launch events.</p>
       <form onSubmit={handleSubmit} className='flex items-center justify-center'>
