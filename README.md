@@ -44,4 +44,5 @@ The optimized production build will be available in the dist folder.
 The project follows a standard React and Vite folder structure:
 
 /src: Contains the source code for the React components, styles, and assets.
+
 /public: Static assets and the HTML template.
