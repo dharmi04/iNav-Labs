@@ -10,7 +10,7 @@ The iNav Labs landing page is designed to showcase the features and capabilities
 ## Features
 
 - Modern and responsive design
-- Interactive components to demonstrate MADI functionalities
+- Interactive components to demonstrate functionalities
 - Easy navigation for users to explore different sections
 - Fast and optimized performance with Vite
 
